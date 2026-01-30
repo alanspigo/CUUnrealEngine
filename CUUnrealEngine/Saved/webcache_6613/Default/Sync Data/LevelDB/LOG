@@ -1,2 +1,3 @@
-2026/01/27-17:43:46.562 3730 Creating DB C:\Users\alans\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/01/27-17:43:46.577 3730 Reusing MANIFEST C:\Users\alans\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/01/29-18:17:27.834 6480 Reusing MANIFEST C:\Users\alans\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/01/29-18:17:27.837 6480 Recovering log #3
+2026/01/29-18:17:27.840 6480 Reusing old log C:\Users\alans\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 

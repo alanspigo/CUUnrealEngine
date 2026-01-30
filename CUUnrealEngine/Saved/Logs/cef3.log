@@ -1,5 +1,14 @@
-[24804:15408:0127/174346.065:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24804:14128:0127/174346.362:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24804:15408:0127/174346.519:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24804:15408:0127/174703.582:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[24804:15408:0127/182815.476:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[10632:5384:0129/181727.739:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10632:5384:0129/181727.741:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[10632:18196:0129/181727.785:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10632:5384:0129/181727.812:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26536:20560:0129/181731.319:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8BE2A9050E19B822CA0C2B4421B1923E will be ignored
+[10632:11508:0129/181731.754:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[10632:5384:0129/181731.949:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[10632:5384:0129/181731.949:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[10632:5384:0129/181731.949:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[10632:5384:0129/181731.950:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[10632:11508:0129/181731.976:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[16284:21260:0129/181942.872:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16284:21260:0129/181942.872:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10632:5384:0129/183827.594:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
