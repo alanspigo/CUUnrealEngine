@@ -20,7 +20,10 @@
 				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/_GENERATED/alans/Sphere_DF00F8E0.uasset",
 				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Imputs/IA_Jump.uasset",
 				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Imputs/IA_movimiento.uasset",
-				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Imputs/IMC_Player1.uasset"
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Imputs/IMC_Player1.uasset",
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Input/IMC_Default.uasset",
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
