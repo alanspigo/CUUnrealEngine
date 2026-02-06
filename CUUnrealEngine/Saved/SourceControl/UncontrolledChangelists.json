@@ -23,7 +23,10 @@
 				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Imputs/IMC_Player1.uasset",
 				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Input/IMC_Default.uasset",
-				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Animation/Crouch.uasset",
+				"C:/Users/alans/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Animation/CrouchWalk.uasset"
 			]
 		}
 	]
