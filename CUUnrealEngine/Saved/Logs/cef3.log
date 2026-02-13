@@ -1,6 +1,10 @@
-[18752:29244:0205/172308.397:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18752:29244:0205/172308.399:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[18752:19828:0205/172308.431:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18752:29244:0205/172308.448:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7244:12112:0205/172312.662:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B2780BF18233EFFEC93EF840702D57BB will be ignored
-[18752:29244:0205/182532.122:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27844:13812:0212/172730.956:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27844:26896:0212/172731.151:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27844:13812:0212/172731.267:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24080:6800:0212/172754.091:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[24080:6800:0212/172754.091:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[24080:6800:0212/172754.092:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[24080:6800:0212/172754.092:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1x1 (100% of ideal size)
+[19352:13496:0212/172754.102:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-26F68BABF6701ADBB1E2F35C3A29A6BA will be ignored
+[24080:6800:0212/172757.340:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[27844:13812:0212/181027.899:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
